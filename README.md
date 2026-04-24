@@ -23,3 +23,9 @@ Ideja je detektirati loptu i odlučiti koja kamera treba biti “uključena”.
 pip install ultralytics opencv-python
 python main.py
 ```
+
+## Trening dataset
+
+Dataset na kojem je model treniran dostupan je na https://app.roboflow.com/ivans-workspace-o9ytz/lipik-zavrsni/2
+
+Sadrži 1200 slika na kojima su anotirane košarkaške lopte (korištena je samo 1 klasa - "basketball")
